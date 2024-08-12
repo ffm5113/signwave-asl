@@ -1,4 +1,4 @@
-# SignWave-ASL
+# SignWave ASL
 
 This research presents SignWave™, an innovative alpha-numeric American Sign Language (ASL) recognition system developed by Forrest Moulin, which uniquely combines computer vision, machine learning, and salient object detection techniques. Leveraging background noise removal preprocessing and a deep convolutional neural network (CNN), SignWave recorded an outstanding 99.97% validation accuracy on a compact dataset of 2.25 GB, representing 36 ASL gesture classes A-Z and 1-10.
 
