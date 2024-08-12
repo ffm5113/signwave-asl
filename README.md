@@ -8,7 +8,7 @@ Trained on a cloud virtual machine without a graphics processing unit (GPU), the
 
 This repository contains the following resources related to the SignWave project:
 
-### 1. SignWave™ Research Presentation
+### 1. Presentation
 - A presentation document providing a visual overview of the SignWave project, including graphics, results, and key insights.
 - [SignWave Research Presentation July 2024](./SignWave%20Research%20Presentation%20July%202024.pdf)
 
