@@ -22,4 +22,4 @@ This project is licensed under the terms of the [MIT License](./LICENSE).
 
 ## Trademark Notice
 
-"SignWave" and the SignWave logo are trademarks (TM) of Forrest Moulin. They may not be used in any way, including but not limited to, commercial use, without explicit permission. Unauthorized use of the name or logo is strictly prohibited.
+"SignWave" and the SignWave logo are trademarks (TM) of Forrest Moulin and mAInstream studIOs LLC. They may not be used in any way, including but not limited to, commercial use, without explicit permission. Unauthorized use of the name or logo is strictly prohibited.
