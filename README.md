@@ -14,7 +14,7 @@ This repository contains the following resources related to the SignWave project
 
 ### 2. Research Article
 - A detailed research paper that thoroughly discusses the methodology, implementation, and findings of the SignWave project.
-- [SignWave Research July 2024](./SignWave%20Research%20July%202024.pdf)
+- [SignWave Research Article July 2024](./SignWave%20Research%20Article%20July%202024.pdf)
 
 ## License
 
